@@ -1,1 +1,2 @@
-# Khuki-s-website
+# Khuki website
+Portfolio website for content creator.
